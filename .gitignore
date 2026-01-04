@@ -1,0 +1,32 @@
+# Compiled executables
+*.exe
+*.out
+task2_openmp
+task3_selection_sort
+task4_cuda_sort
+
+# Object files
+*.o
+*.obj
+
+# CUDA compiled files
+*.cubin
+*.ptx
+
+# Build directories
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
