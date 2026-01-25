@@ -1,0 +1,41 @@
+# Compiled executables
+task1
+task2
+task3
+task4
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# CUDA compiled files
+*.cubin
+*.ptx
+*.fatbin
+
+# Build directories
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+
+# Profiling files
+*.nvvp
+*.qdrep
+
+# MPI output files
+*.log
